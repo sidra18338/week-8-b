@@ -1,0 +1,12 @@
+{
+    "name": "random-number-api",
+    "private": true,
+    "scripts": {
+        "start": "node serve1.js",
+        "test":"echo\"Error: no test specified\"&& exit 1"
+    },
+    "dependencies": {
+        "express": "^4.21.1",
+        "mongodb": "^3.6.3"
+    }
+}
